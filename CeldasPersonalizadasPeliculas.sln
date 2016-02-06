@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CeldasPersonalizadasPeliculas", "CeldasPersonalizadasPeliculas\CeldasPersonalizadasPeliculas.csproj", "{69AE29B8-532B-4D0C-B956-37C8771DBE6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69AE29B8-532B-4D0C-B956-37C8771DBE6A}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{69AE29B8-532B-4D0C-B956-37C8771DBE6A}.Debug|iPhone.Build.0 = Debug|iPhone
+		{69AE29B8-532B-4D0C-B956-37C8771DBE6A}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{69AE29B8-532B-4D0C-B956-37C8771DBE6A}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{69AE29B8-532B-4D0C-B956-37C8771DBE6A}.Release|iPhone.ActiveCfg = Release|iPhone
+		{69AE29B8-532B-4D0C-B956-37C8771DBE6A}.Release|iPhone.Build.0 = Release|iPhone
+		{69AE29B8-532B-4D0C-B956-37C8771DBE6A}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{69AE29B8-532B-4D0C-B956-37C8771DBE6A}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
